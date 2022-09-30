@@ -1,6 +1,6 @@
 imageio==2.5.0
 imutils==0.5.3
-joblib==0.13.2
+joblib==1.2.0
 networkx==2.3
 numpy==1.17.1
 opencv-contrib-python==4.1.1.26
